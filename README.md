@@ -1,5 +1,5 @@
-<h1 align="center">Hola👋, mi nombre es Lilly D. Guevara López</h1>
-<h3 align="center">Soy estudiante de Ingeniería en Sistemas </h3>
+<h1 align="center">Lilly Daniela Guevara López</h1>
+<h3 align="center">Estudiante de Ingeniería en Sistemas/Developer Jr. </h3>
 
 
 <h3 align="left">Connect with me:</h3>
