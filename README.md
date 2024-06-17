@@ -1,6 +1,17 @@
 <h1 align="center">Lilly Daniela Milagros de Lourdes Guevara López</h1>
 <h3 align="center">Estudiante de Ingeniería en Sistemas/Developer Jr. </h3>
 
+<p>Actualmente me desempeño como Desarrolladora
+web jr y estoy estudiando el último trimestre de la
+carrera de Ingeniería de sistemas. Soy abogado pero
+me apasiona el desarrollo web, el mundo de la
+ingeniería y la AI por lo que decidí especializarme en
+ello y cerrar el ciclo como abogado.
+Estoy en constante estudios específicos en lenguajes de
+programacióncon academia Platzi y Ademass. La comunicación y colaboración son parte
+esencial de mi trabajo, así como la creatividad ya que es
+imposible ser programador sin imaginación y divertirse en el
+desarrollo de un proyecto incluyendo su aprendizaje. </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
