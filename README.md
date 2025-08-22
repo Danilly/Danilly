@@ -6,7 +6,7 @@ web, estoy estudiando el último trimestre de la
 carrera de Ingeniería de sistemas. 
 Estoy en constante aprendizaje en lenguajes de
 programación, mi meta próxima ser full stack y dedicarme a desarrollo de videojuegos, asumir diversos desafíos e ir mas alla de lo que podemos ver.
-Estudio el idioma japonés, su cultura y gastronomía</p>
+Estudio el idioma japonés, su cultura y gastronomía.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
